@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning terraform and Go
 <!--
 **csolje/csolje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
